@@ -8,7 +8,7 @@ List of tools that should be built and help improve thoe Enigma ecosystem.
 - Watch Some of the P2P Messages 
 - Watch the latest random number emitted 
 
-## Customized wallet 
+## UI Client
 - Wrapping the Enigma.js library 
 - Make JsonRPC calls to a proxy node 
 - stake eng's and other stuff that Enigma.js allows 
