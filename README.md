@@ -1,7 +1,7 @@
 # ecosystem-tools
 List of tools that should be built to help improve the Enigma ecosystem.
 
-If you are interested in building any of the tools below, please contact us on.... for more detailed specifications, learn about our choice of tools and frameworks, and get access to our team of developers for support. 
+If you are interested in building any of the tools below, please contact join us on Slack (contact eggs@enigma.co for access) for more detailed specifications, learn about our choice of tools and frameworks, and get access to our team of developers for support. 
 
 ## Blockchain network explorer
 - Watch compute task requests confirmed/uncoould this require any type of special expertise?)
